@@ -1,0 +1,7 @@
+name = "myz-admin"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "MYZ_KV"
+id = "a46360eb15f646cdbbbb1b531a6bb4d6"
